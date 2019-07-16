@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#1D1D1B;}
+</style>
+<title>newsletter_style</title>
+<g id="Layer_2_1_">
+	<g id="newsletter_copy">
+		<line class="st0" x1="14.8" y1="66.2" x2="37.5" y2="50.8"/>
+		<line class="st0" x1="65.2" y1="66.2" x2="42.5" y2="50.8"/>
+		<line class="st0" x1="14.8" y1="33.3" x2="23.2" y2="39.8"/>
+		<line class="st0" x1="42.5" y1="50.8" x2="58.2" y2="38.7"/>
+		<polyline class="st0" points="42.5,50.8 40,52.7 37.5,50.8 		"/>
+		<line class="st0" x1="37.5" y1="50.8" x2="23.2" y2="39.8"/>
+		<line class="st0" x1="58.2" y1="38.7" x2="65.2" y2="33.3"/>
+		<polyline class="st0" points="35.6,17.3 40,13.9 44.4,17.3 		"/>
+		<polyline class="st0" points="19,30 14.8,33.3 14.8,50.8 14.8,66.2 40,66.2 65.2,66.2 65.2,50.8 65.2,33.3 61,30 		"/>
+		<circle class="st0" cx="31.2" cy="30.9" r="4"/>
+		<line class="st0" x1="40" y1="27.9" x2="52.8" y2="27.9"/>
+		<line class="st0" x1="40" y1="33.9" x2="52.8" y2="33.9"/>
+		<polyline class="st0" points="19,36.6 19,17.3 61,17.3 61,36.6 		"/>
+	</g>
+</g>
+</svg>
