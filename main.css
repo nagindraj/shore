@@ -1,5 +1,6 @@
 #logo {
     flex-direction: column;
+    margin-left: 3rem;
 }
 
 .arrowIcon{
@@ -7,13 +8,44 @@
     height: 10px;
 }
 
-#leftData{
-    margin: 4rem;
+#shore__hero {
+    background-image: url(./images/hero_desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
 }
 
-#headerimagedata{
-    display: flex;
-    
-    width:100%;
-    height: 400px;
+.inner {
+    margin-top: 2rem;
+}
+
+.btn {
+    margin-top: 1.5rem;
+}
+
+#hero-button {
+    padding: 0 2rem 0 2rem;
+    border-radius: 2px;
+}
+
+#terminal-lable {
+    margin-left: 2rem;
+}
+
+@media screen and (max-width: 999px) {
+    #shore__hero {
+        background-image: url(./images/hero_tablet.jpg);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #shore__hero {
+        background: url(./images/hero_mobile.jpg);
+    }
+
+    #shore__hero img{
+        vertical-align: top;
+        width: 100%; /* max width */
+        opacity: 0;
+    }
 }
